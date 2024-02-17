@@ -1,0 +1,13 @@
+{
+  "appName": "postgres-operator",
+  "userGivenName": "postgres-operator",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "blob/master/manifests/kustomization.yaml",
+  "srcRepoURL": "https://github.com/zalando/postgres-operator.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
